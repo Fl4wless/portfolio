@@ -1,0 +1,61 @@
+{
+    "portfolio": {
+        "projects": [{
+                "name": "Gmail Clone DEMO",
+                "image": "https://rotechnica.com/wp-content/uploads/2020/10/Gmail-new-logo.jpg",
+                "github": "https://github.com/Fl4wless/gmail-clone",
+                "web": "https://fl4wless.github.io/gmail-clone/",
+                "text": "Built with React, Redux, ReactRouter, Firebase and Material-UI"
+            },
+            {
+                "name": "LinkedIN Clone DEMO",
+                "image": "https://cdn.webnoviny.sk/sites/20/2016/02/linkedin.jpg",
+                "github": "https://github.com/Fl4wless/linkedin-clone",
+                "web": "https://fl4wless.github.io/linkedin-clone/index",
+                "text": "Demo version of LinkedIn Built with ReactJS, Redux, MaterialUI"
+            },
+            {
+                "name": "Netflix Clone DEMO",
+                "image": "https://pc.zoznam.sk/sites/default/files/2021-03/493f5bba-81a4-11e9-bf79-066b49664af6cm1440w.png",
+                "github": "https://github.com/Fl4wless/netflix-clone",
+                "web": "",
+                "text": "will be up very soon"
+            },
+            {
+                "name": "Restaurant meals order",
+                "image": "https://i.ibb.co/M6W7wLz/Sn-mka-obrazovky-2021-08-05-165405.jpg",
+                "github": "https://github.com/Fl4wless/meal-order-app",
+                "web": "https://fl4wless.github.io/meal-order-app/",
+                "text": "Application for restaurant online food ordering."
+            },
+            {
+                "name": "QuoteStack",
+                "image": "https://i.ibb.co/9WBpstx/quote.jpg",
+                "github": "https://github.com/Fl4wless/QuoteStack",
+                "web": "https://github.com/Fl4wless/QuoteStack",
+                "text": "Application for posting quotes with commenting and sorting."
+            },
+            {
+                "name": "Social media dashboard",
+                "image": "https://i.ibb.co/g30NKNM/dash.jpg",
+                "github": "https://github.com/Fl4wless/social-media-dashboard",
+                "web": "https://fl4wless.github.io/social-media-dashboard/",
+                "text": "Project from frontendmentor.io, website for frontend coding challenges."
+            },
+            {
+                "name": "EasyBank landing page",
+                "image": "https://i.ibb.co/HBK2fBk/easybank.jpg",
+                "github": "https://github.com/Fl4wless/easybank-landing-page",
+                "web": "https://fl4wless.github.io/easybank-landing-page/",
+                "text": "Project from frontendmentor.io, website for frontend coding challenges."
+            },
+            {
+                "name": "Tip Calculator",
+                "image": "https://i.ibb.co/3TKF2YN/tip.jpg",
+                "github": "https://github.com/Fl4wless/tip-calculator",
+                "web": "https://fl4wless.github.io/tip-calculator/",
+                "text": "Restaurant tip calculator application, challenge from frontendmentor.io."
+            }
+        ]
+    }
+}
